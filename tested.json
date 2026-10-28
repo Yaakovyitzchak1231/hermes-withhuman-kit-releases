@@ -1,0 +1,12 @@
+{
+ "version": 1,
+ "sets": [
+  {
+   "hermes": "bf0203a794a07aac3ff764972ab9087baa4e4f4e",
+   "withhuman_cli": "1.0.39",
+   "withhuman_image": "quay.io/withhuman/bundle@sha256:6b139153a3a5836b440d5fd8da26b81b19bd34e42dfb74077ce91277b64a07e9",
+   "kit": "0.1.0",
+   "passed_at": "2026-10-28T06:01:25.999737Z"
+  }
+ ]
+}
